@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+If Kratos makes bread, it will be Kratoast
 Use the left arrow to go back!
